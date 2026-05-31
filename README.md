@@ -1,4 +1,4 @@
-<h1 align="center"> Simple File manager </h1>
+<h1 align="center"> KAA File manager </h1>
 
 ---
 ![Interface example](Interface_example.png)
@@ -8,9 +8,9 @@
 
 ## Getting Started
 
-* Install Rust language.
-* Create new project and add `main.rs` with `Cargo.toml` there.
-* Run this project - You will see user-friendly interface in Your terminal.
+* Install Cargo (Rust)  
+* Execute `cargo install kaa_file_manager`  
+* Run - `kfm`
 
 Now You can manage files and directories: find, read, write and more!
 
